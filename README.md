@@ -13,7 +13,7 @@
 We’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database. This application won’t be deployed so I’ll show a walkthrough video that demonstrates its functionality.
 
 ## Demo
-[![Demo Video](./video/Screenshot%202024-06-06%20224942.png)](/video/2024-06-06%2022-26-09.mp4)
+[![Demo Video](./video/Screenshot%202024-06-06%20224942.png)](./video/2024-06-06%2023-02-48.mp4)
 
 ## Technologies
 Project is created with:
